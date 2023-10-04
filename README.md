@@ -22,20 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1: Log in to the Azure portal
-- Item 2: Create Virtual Machine in Azure
-- Item 3: Click on "Create a resource" > "Compute" > "Virtual Machine."
-- Item 4: Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs (When creating the VM, allow it to create a new Virtual Network (Vnet))
-- Item 5: Assign Username & Password
-- Item 6: Install / Enable IIS in Windows WITH
-CGI and Common HTTP Features
-World Wide Web Services -> Application Development Features ->
-[X] CGI
-[X] Common HTTP Features
-AND IIS Management Console
-Internet Information Services -> Web Management Tools -> IIS Management Console
-	[X] IIS Management Console
-
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
 <h2>Installation Steps</h2>
 
